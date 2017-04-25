@@ -1,5 +1,3 @@
----- Choose a label - p0, p1, p2, p3, or p4 -
-
 **Summary**
 Description of what’s wrong for quick parsing. (example: Payment button not enabled when all the fields are filled in)
 
@@ -22,3 +20,6 @@ Any screenshots?
 2.0.4 (or whatever it is, since bugs get moved to next version etc)
 Phone: iPhone 4s / 5 / 6 / 6+
 OS: iOS 7, or 8 , etc
+
+**Priority**
+Pick one: p0, p1, p2, p3, or p4
